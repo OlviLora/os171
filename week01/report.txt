@@ -1,0 +1,14 @@
+#Olvi Lora S
+
+Pada praktikum week01 yang dilakukan adalah:
+1. Masuk ke server badak melalui putty
+2. Melakukan git clone ke link yang terdapat di folder os171
+3. Membuat folder dan file dummy di folder os171
+4. Melakukan push folder dan file yang telah dicreate ke github dengan meng-commit file / folder yang akan di-push ke github
+5. Menghapus file dummy dan membuat file lalu mengeditnya di putty dan menyimpan file yang telah diedit
+6. Mengedit file di github dari browser dan commit.
+7. File yang telah dicommmit dari browser di-pull dari putty agar local repository saat ini sama dengan repository di github
+8. Belajar command git pull (menarik folder/file dari github), git status (mengecek perubahan seperti penambahan atau penghapusan  yang terjadi di folder/file), dan git push (push file/folder yang akan di-update di github)
+9. Belajar command mk dir (untuk membuat folder), touch (untuk membuat file), rm (untuk menghapus file), cd .. (kembali ke folder sebelumnya), dan command ls -al untuk melihat isi folder
+10. Belajar command vi dan nano untuk meng-edit file di putty. Apabila menggunakan command vi untuk meng-insert mengetik i, apabila sudah selesai meng-edit tekan esc, untuk  menyimpannya menggunakan command :wq!. Apabila menggunakan nano maka sudah langsung dapat mengedit file nya. Untuk menyimpan perubahannya pilih ctrl+o
+11. Belajar comand pwd untuk mengetahu current directory, comman mv untuk memindahkan file / folder.
