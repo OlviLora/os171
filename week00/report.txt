@@ -1,0 +1,7 @@
+#Olvi Lora S
+
+Pada praktikum week00 yang dilakukan adalah
+1. Membuat akun di github dan membuat repository baru yaitu os171 
+2. Mengisi form yang berisi data yang diperlukan untuk mendapatkan status pembuatn github dan folder nya berhasil. 
+3. Mendownload dan install putty untuk bisa login ke badak server. Untuk login ke badak sever tidak bisa secara langsung, terlebih dahulu terhubung ke kawung.cs.ui.ac.id dengan menggunakan username dan password sso UI.
+
