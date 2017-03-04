@@ -1,0 +1,11 @@
+w03-170228-19-LR-About: Kuis, From: Lecturer
+w03-170228-19-LR-About: Kuis, From: Lecturer
+w03-170228-20-LR-About: Bios, Boot and Upstart, From: Lecturer
+w03-170228-20-LR-About: Download Virtual Box and Install Virtual Box, From: Lecturer
+w03-170228-21-LR-About: Install Virtual Box, From: Lecturer
+w03-170304-10-PS-About: Learn about Booting Linux in LAB
+w03-170304-10-PS-About: Learn about sudo file and command in LAB
+w03-170304-11-PS-About: Learn about sudo file and command in LAB
+w03-170304-11-PS-About: Learn about sudo file and command in LAB
+w03-170304-12-DS-About: Doing Encryption and Digital Signature using GnuPG in LAB
+w03-170304-12-PS-About: Create log and commit to GITHUB in LAB
