@@ -1,0 +1,13 @@
+w07-170418-19-LR-About: Proses synchronization, From: Lecturer
+w07-170418-19-LR-About: Proses synchronization, From: Lecturer
+w07-170418-20-LR-About: Proses synchronization, From: Lecturer
+w07-170418-20-LR-About: Proses synchronization, From: Lecturer
+w07-170418-21-LR-About: Proses synchronization, From: Lecturer
+w07-170422-11-PS-About: Doing practicum synchronization in LAB
+w07-170422-11-PS-About: Analyze the program code 03-readwrite.c in LAB
+w07-170422-12-PS-About: Analyze the program code 03-readwrite.c in LAB
+w07-170422-12-PS-About: Analyze the program code 05-balap.c in LAB
+w07-170422-13-PS-About: Analyze the program code 06-memory.c GITHUB in LAB
+w07-170422-13-PS-About: Doing exercise in LAB
+w07-170422-14-PS-About: Doing exercise in LAB
+w07-170422-14-PS-About: Doing exercise in LAB
